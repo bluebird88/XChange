@@ -23,7 +23,7 @@
 	<repositories>
 		<repository>
 			<id>sonatype-oss-snapshot</id>
-			<snapshots />
+			<snapshots/>
 			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
 		</repository>
 	</repositories>
@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>org.knowm.xchange</groupId>
 			<artifactId>xchange-core</artifactId>
-			<version>4.1.1-SNAPSHOT</version>
+			<version>4.3.0</version>
 		</dependency>
 	</dependencies>
 
